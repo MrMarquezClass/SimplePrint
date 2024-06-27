@@ -1,0 +1,5 @@
+<run>
+    <dependencies>
+        <dependency>org.junit.jupiter:junit-jupiter:5.8.1</dependency>
+    </dependencies>
+</run>
